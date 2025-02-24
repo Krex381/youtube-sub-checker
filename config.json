@@ -1,0 +1,17 @@
+{
+    "token": "DISCORD_BOT_TOKEN",
+    "clientId": "YOUR_CLIENT_ID",
+    "guildId": "YOUR_GUILD_ID",
+    "subscribedRoleId": "YOUR_SUBSCRIBED_ROLE_ID",
+    "verificationTimeout": 300000,
+    "adminKey" : "YOUR_ADMIN_KEY",
+    "youtube": {
+        "apiKey": "YOUR_YOUTUBE_API_KEY",
+        "channelId": "YOUR_YOUTUBE_CHANNEL_ID",
+        "requiredActions": {
+            "subscribe": true,
+            "like": false,
+            "comment": false
+        }
+    }
+}
